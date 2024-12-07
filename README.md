@@ -35,7 +35,7 @@ This project includes two key images demonstrating the K-Means clustering algori
 #### **Grid of K-Means Clustering Results**
 The **grid_kmean.png** image shows the K-Means clustering results applied to multiple images. It provides a visual comparison of the effects of clustering with different values of `k` (3, 10, 20) on each image.
 
-![Grid of K-Means Clustering](grid_kmean.png)
+![Grid of K-Means Clustering](images/grid_kmean.png)
 
 #### **Parrots Image with Random Clustering**
 The **parrots(random).png** image shows how the parrots image looks after applying random K-Means clustering with different values of `k`. This demonstrates the effect of varying cluster sizes on the color reduction of the image.
