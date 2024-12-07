@@ -40,7 +40,7 @@ The **grid_kmean.png** image shows the K-Means clustering results applied to mul
 #### **Parrots Image with Random Clustering**
 The **parrots(random).png** image shows how the parrots image looks after applying random K-Means clustering with different values of `k`. This demonstrates the effect of varying cluster sizes on the color reduction of the image.
 
-![Parrots with Random Clustering](parrots(random).png)
+![Parrots with Random Clustering](images/parrots(random).png)
 
 ---
 
