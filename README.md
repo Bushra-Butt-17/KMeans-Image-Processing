@@ -1,6 +1,6 @@
 # **KMeans-Image-Processing** 🖼️📊  
 
-![image](https://github.com/user-attachments/assets/46df9990-b0f9-409f-aec1-20d1bc045734)
+<img src="https://github.com/user-attachments/assets/46df9990-b0f9-409f-aec1-20d1bc045734" width="100%">
 
 Welcome to **KMeans-Image-Processing**, a Python-based project that applies the **K-Means clustering algorithm** to perform **color quantization** and **image segmentation**. By experimenting with various values of **k** (e.g., 3, 10, 20), this project demonstrates how clustering impacts the visual quality of images. This tool is ideal for exploring the power of unsupervised learning in image processing and achieving efficient image compression.
 
