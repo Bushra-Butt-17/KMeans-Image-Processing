@@ -1,3 +1,7 @@
+
+
+---
+
 # **KMeans-Image-Processing** 🖼️📊  
 
 ![image](https://github.com/user-attachments/assets/05d7e8fb-4ebf-48eb-bbda-c1f113c5242b)
@@ -173,3 +177,7 @@ Special thanks to the following:
 ---  
 
 Let’s cluster some pixels! 🚀
+
+---
+
+
